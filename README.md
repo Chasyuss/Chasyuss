@@ -24,5 +24,5 @@
 
 <h3 align="center"></h3>
 <div align="center">
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chasyuss&layout=compact&theme=swift&hide_border=true" /></a> 
+<a href="https://github.com/Chasyuss"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chasyuss&layout=compact&theme=swift&hide_border=true" /></a> 
 </div>
