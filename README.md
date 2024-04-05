@@ -22,3 +22,7 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
+<h3 align="center"></h3>
+<div align="center">
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chasyuss&layout=compact&theme=swift&hide_border=true" /></a> 
+</div>
